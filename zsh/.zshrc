@@ -172,7 +172,6 @@ export PATH=$PATH:/usr/local/go/bin
 ## Custome script ##
 
 export PATH=$PATH:/home/pream/.local/bin
-eval "$(oh-my-posh init zsh --config ~/quick-term.omp.json)"
 
 ### nvim config ###
 export PATH="$PATH:/opt/nvim-linux64/bin"
