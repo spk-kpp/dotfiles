@@ -1,0 +1,8 @@
+vim.cmd("set expandtab")
+vim.cmd("set number")
+vim.cmd("set relativenumber")
+vim.cmd("set shiftwidth=4")
+vim.cmd("set tabstop=4 softtabstop=4")
+vim.cmd("set scrolloff=4")
+vim.cmd("set smartindent")
+vim.cmd("set foldmethod=indent")
